@@ -1,6 +1,6 @@
 # DADS5001-Plotly
 
-# Team member :
-1. Siriwat Carawukh
-2. Noppawat Choksuntornlert
-3. Tanin 
+# Team members :
+1. ศิริวัฒน์ คาระวุคห์       6720422017
+2. นพวัฒน์ โชคสุนทรเลิศ    6720422030
+3. ธนิน ตราบชั่วกัลปาว์      6720422009
